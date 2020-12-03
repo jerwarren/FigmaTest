@@ -1,0 +1,146 @@
+* {
+  overflow-x: hidden;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.v1_4 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v1_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v54_576 {
+  width: 100%;
+  height: 1024px;
+  background: url("../images/v54_576.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 222px;
+  overflow: hidden;
+}
+.v54_824 {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(90,12,151,0), rgba(227,125,152,0.8299999833106995));
+  opacity: 1;
+  position: absolute;
+  top: 766px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v54_577 {
+  width: 816px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 873px;
+  left: 66px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto;
+  font-weight: Black;
+  font-size: 75px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_578 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 959px;
+  left: 66px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 41px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_579 {
+  width: 512px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1063px;
+  left: 66px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto;
+  font-weight: Black;
+  font-size: 41px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_7 {
+  width: 222px;
+  height: 925px;
+  background: url("../images/v1_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_6 {
+  width: 222px;
+  height: 925px;
+  background: url("../images/v1_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
